@@ -10,7 +10,7 @@ var fs = require('fs');
 //set IBM cloud credentials in this section
 var visualRecognition = new VisualRecognitionV3({
   version: '2019-05-29',
-  iam_apikey: 'Remplace aqui'
+  iam_apikey: '76VOZUBNarXRp_aQKCR1rWMkvlcfIwGzSS0E-_VQofFo'
 });
 
 // Set The Storage Engine
